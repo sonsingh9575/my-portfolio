@@ -19,7 +19,7 @@ const education = [
 const experience = [
   {
     title: "Full Stack Developer",
-    company: "Tech Solutions",
+    company: "CDN Softwere Solucation",
     duration: "2022 - Present",
     description: "Worked on building scalable web applications using React, Node.js, and MongoDB."
   },
